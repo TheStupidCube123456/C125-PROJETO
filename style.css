@@ -1,0 +1,32 @@
+body{
+	text-align: center;
+	background-color: black;
+}
+
+span{
+	font-size: 18px;
+	color: red;
+}
+
+video{
+	margin-top: -532;
+	margin-left: -1100;
+}
+
+.infoSpan {
+	color: rgb(190, 56, 38);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text {
+	font-size: 75px;
+	font-family: 'Times New Roman', Times, serif;
+	background-color: rgb(255, 255, 255);
+	color: rgb(243, 188, 9);
+}
+
+.text2 {
+	font-size: 35px;
+	font-family: 'Times New Roman', Times, serif;
+	color: rgb(243, 188, 9);
+}
